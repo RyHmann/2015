@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2015", "2015.csproj", "{709C1C66-8CA9-4DBF-837B-CC8C267FACE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode2015", "AdventOfCode2015.csproj", "{709C1C66-8CA9-4DBF-837B-CC8C267FACE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "..\Testing\Testing.csproj", "{8D8CA830-BA83-43FD-AD72-6057876C7491}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testing", "..\Testing\Testing.csproj", "{8D8CA830-BA83-43FD-AD72-6057876C7491}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
